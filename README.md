@@ -54,7 +54,7 @@
 
 ## 라이센스
 
-이 코드는 MIT 라이센스에 따라 공개되어 있습니다.
+이 코드는 MIT 라이센스에 따라 공개되어 있습니다. 자세한 내용은 ['LICENSE' 파일](https://github.com/github-jademon/SentimentAI/blob/main/LICENSE)을 참조해주세요.
 
 ---
 
