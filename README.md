@@ -1,4 +1,4 @@
-# SentimentAI(감정분석 AI)
+# SentimentAI (감정분석 AI)
 
 ![SentimentAI](https://github.com/github-jademon/SentimentAI/assets/79764169/c097c010-22b3-40b1-afa7-bc63cd3d981c)
 이 프로젝트는 텍스트 감정분석을 수행하는 감정분석 AI를 개발한 것입니다. 해당 AI는 주어진 텍스트 문장을 입력으로 받아 긍정, 중립, 또는 부정으로 감정을 예측합니다. 
