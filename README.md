@@ -33,11 +33,11 @@
    ```bash
    pip install pandas scikit-learn tensorflow
    ```
-3. `data.csv` 파일을 준비하여 훈련 및 테스트 데이터를 저장합니다.
+2. `data.csv` 파일을 준비하여 훈련 및 테스트 데이터를 저장합니다.
    - `data.csv` 파일은 '발화문'과 해당 발화문의 감정을 나타내는 '상황' 열로 구성되어야 합니다.
    - '상황' 열의 감정은 'happiness', 'angry', 'anger', 'disgust', 'fear', 'neutral', 'sadness', 'sad', 'surprise' 등의 문자열로 표현됩니다.
 
-4. `main.py` 스크립트를 실행하여 모델을 훈련합니다.
+3. `main.py` 스크립트를 실행하여 모델을 훈련합니다.
 
 ## 프로젝트 사용 방법
 `main.py` 스크립트를 실행하여 감정 예측을 진행합니다.
