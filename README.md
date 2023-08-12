@@ -1,7 +1,7 @@
 # SentimentAI (감정분석 AI)
 
 ![SentimentAI](https://github.com/github-jademon/SentimentAI/assets/79764169/c097c010-22b3-40b1-afa7-bc63cd3d981c)
-이 프로젝트는 텍스트 감정분석을 수행하는 감정분석 AI를 개발한 것입니다. 해당 AI는 주어진 텍스트 문장을 입력으로 받아 긍정, 중립, 또는 부정으로 감정을 예측합니다. 
+이 프로젝트는 텍스트 감정분석을 수행하는 감정분석 AI를 개발한 것입니다. 해당 AI는 주어진 텍스트 문장을 입력으로 받아 '긍정', '중립', '부정'으로 감정을 예측합니다. 
 
 ## 목차
 
@@ -15,7 +15,7 @@
 
 ## 프로젝트 설명
 
-이 프로젝트는 Python과 TensorFlow를 사용하여 텍스트 감정분석 AI를 개발한 것입니다. 감정분석은 텍스트 데이터에서 해당 문장의 감정을 파악하는 중요한 자연어처리(NLP) 기술입니다. 감정분석 AI 모델은 LSTM(Long Short-Term Memory)과 임베딩 층을 활용하여 텍스트 시퀀스를 분석하고 긍정, 중립, 또는 부정으로 분류합니다. 이 AI 모델은 감정분석과 관련된 다양한 응용 분야에서 활용될 수 있습니다.
+이 프로젝트는 Python과 TensorFlow를 사용하여 텍스트 감정분석 AI를 개발한 것입니다. 감정분석 AI 모델은 LSTM(Long Short-Term Memory)과 임베딩 층을 활용하여 텍스트 시퀀스를 분석하고 긍정, 중립, 또는 부정으로 분류합니다.
 
 ## 데이터셋
 - [AIhub](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=263)
@@ -43,7 +43,7 @@
 `main.py` 스크립트를 실행하여 감정 예측을 진행합니다.
 
 텍스트 문장을 입력하면 AI 모델이 해당 문장의 감정을 예측하여 출력합니다.
-   - 예측된 감정은 "긍정", "중립", "부정"으로 분류됩니다.
+   - 예측된 감정은 '긍정', '중립', '부정'으로 분류됩니다.
 
 ![SentimentAI](https://github.com/github-jademon/SentimentAI/assets/79764169/445a28e4-f421-4d33-94f7-3966f48e182f)
 
@@ -51,11 +51,5 @@
 
 1. https://wikidocs.net/22894
 2. https://sig413.tistory.com/5
-
-## 라이센스
-
-이 코드는 MIT 라이센스에 따라 공개되어 있습니다. 자세한 내용은 ['LICENSE' 파일](https://github.com/github-jademon/SentimentAI/blob/main/LICENSE)을 참조해주세요.
-
----
 
 이 프로젝트에 관한 문의 사항이나 버그 리포트는 [j2python@gmail.com]로 보내주세요.
